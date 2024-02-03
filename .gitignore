@@ -1,2 +1,10 @@
+## VS CODE
+node_modules
+build
+node_modules/*.*
+build/*.*
+.vscode
+
+## REMIX
 .deps
-*.json
+contracts/artifacts/*
